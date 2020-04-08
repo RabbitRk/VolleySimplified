@@ -1,5 +1,3 @@
-[![](https://jitpack.io/v/RabbitRk/VolleySimplified.svg)](https://jitpack.io/#RabbitRk/VolleySimplified)
-
 
 # VolleySimplified
 
@@ -26,7 +24,7 @@ allprojects {
 Add the dependency
 
 ```
-implementation 'com.github.RabbitRk:VolleySimplified:v1.0'
+implementation 'com.github.RabbitRk:VolleySimplified:1.1.0'
 ``` 
  
 ## Code break down
