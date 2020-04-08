@@ -24,7 +24,7 @@ allprojects {
 Add the dependency
 
 ```
-implementation 'com.github.RabbitRk:VolleySimplified:1.1.0'
+implementation 'com.github.RabbitRk:VolleySimplified:1.0.0'
 ``` 
  
 ## Code break down
