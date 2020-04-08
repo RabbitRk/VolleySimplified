@@ -1,3 +1,5 @@
+[![](https://jitpack.io/v/RabbitRk/VolleySimplified.svg)](https://jitpack.io/#RabbitRk/VolleySimplified)
+
 
 # VolleySimplified
 
