@@ -34,20 +34,20 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        //Overloaded getdata method can be used to get the data by sending
-        //quering values in the Hashmap
-        new VolleyAdapter(this).getData(map, Config.URL, new ServerCallback() {
-            @Override
-            public void onSuccess(String result) {
-                //result can be converted in to the JSONarray
-                //using JSONObject we can parse the data from the JSONarray
-            }
+//Overloaded getdata method can be used to get the data by sending
+//quering values in the Hashmap
+new VolleyAdapter(this).getData(map, Config.URL, new ServerCallback() {
+    @Override
+    public void onSuccess(String result) {
+        //result can be converted in to the JSONarray
+        //using JSONObject we can parse the data from the JSONarray
+    }
 
-            @Override
-            public void onError(String result) {
+    @Override
+    public void onError(String result) {
 
-            }
-        });
+    }
+});
 
         new VolleyAdapter(this).insertData(map, Config.URL, new ServerCallback() {
             @Override
