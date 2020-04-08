@@ -1,3 +1,6 @@
+[![](https://jitpack.io/v/RabbitRk/VolleySimplified.svg)](https://jitpack.io/#RabbitRk/VolleySimplified)
+
+
 # VolleySimplified
 
 Simplified callback functions for the Volley Library. 
